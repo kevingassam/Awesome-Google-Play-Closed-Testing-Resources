@@ -21,6 +21,17 @@ You can use TestMonApp to:
 
 👉 **Get Android testers:** https://testmonapp.com/
 
+### TestersTrade
+
+[**TestersTrade**](https://www.testerstrade.com/) is a free tester exchange for Google Play closed testing. Developers join a Pack of up to 16 Android developers and test each other's apps for the full 14 days.
+
+* Free, no payment
+* A companion app checks every day that each app is still installed
+* Drop-outs are replaced
+* Testers leave structured feedback
+
+👉 **Closed testing guide:** https://www.testerstrade.com/guide
+
 ## What is Google Play Closed Testing?
 
 Google Play closed testing allows developers to distribute an app to a limited group of testers before making the application available to a wider audience.
